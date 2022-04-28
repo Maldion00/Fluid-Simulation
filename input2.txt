@@ -1,0 +1,62 @@
+Fluid1-----------------------------
+
+Density
+
+14 24	#x1 y1
+12 22		#x2 y2
+50			#Increase
+
+Velocity
+
+10 20		#x y
+2 2		#IncreaseX IncreaseY
+
+ROTATE_L    #Rotation
+
+Fluid2-----------------------------
+
+Density
+
+28 28		#x1 y1
+31 31		#x2 y2
+100			#Increase
+
+Velocity
+
+27 27		#x y
+2 2			#IncreaseX IncreaseY
+
+ROTATE_R    #Rotation
+
+Fluid3-----------------------------
+
+Density
+
+46 46		#x1 y1
+48 48		#x2 y2
+100			#Increase
+
+Velocity
+
+49 49		#x y
+-2 -2		#IncreaseX IncreaseY
+
+NULL    #Rotation
+
+Fluid4-----------------------------
+
+Density
+
+10 46		#x1 y1
+13 49		#x2 y2
+70			#Increase
+
+Velocity
+
+8 48		#x y
+2 -2		#IncreaseX IncreaseY
+
+ROTATE_L    #Rotation
+
+GnBu		#ColorMap
+

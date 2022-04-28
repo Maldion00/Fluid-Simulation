@@ -1,0 +1,5 @@
+Development log
+
+In this project I managed to develop a way to add more density and velocity sources, as well as 
+changing the color of the fluid. All of this is done by changing the data in the input texts, and that's 
+how you get different simulations.
